@@ -2,7 +2,7 @@
   "name": "welcome",
   "description": "A Vue.js project",
   "version": "1.0.0",
-  "author": "Yuri.Fontes sd.rolandi@gmail.com",
+  "author": "Yuri Rolandi sd.rolandi@gmail.com",
   "license": "MIT",
   "private": true,
   "scripts": {
